@@ -1,1 +1,2 @@
 # FCC-Number-Guessing-Game
+This repository explores the languages Bash and SQL as a part of freeCodeCamp's Relational Database Certification. I have used Bash scripting, PostgreSQL, and Git to create a number-guessing game that runs in the terminal and saves user information. The number_guess.sql file contains a database with a user's name, number of games played and their best game. The number_guess.sh file queries the user for their name and has them guess a random number between 1-1000 and stores the relevant info in the database.
